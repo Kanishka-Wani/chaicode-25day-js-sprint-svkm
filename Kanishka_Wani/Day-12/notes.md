@@ -463,10 +463,6 @@ do {
 
 ✅ Initialization, Condition, Increment
 
-✅ Reverse Loop
-
-✅ Even & Odd Number Loops
-
 ✅ break Statement
 
 ✅ continue Statement
